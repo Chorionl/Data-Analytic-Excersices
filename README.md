@@ -52,7 +52,7 @@ By completing these exercises, the goal is to:
 - Apply business logic with CASE WHEN
 - Improve reporting and data analysis skills
 
-- # AUTHOR #
+- # Author #
 
 - Dimitrios Vranas — aspiring Junior Data Analyst
 - Experimenting with SQL as part of hands-on learning.
